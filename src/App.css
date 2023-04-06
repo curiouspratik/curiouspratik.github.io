@@ -1,0 +1,44 @@
+/* App.css */
+
+.App {
+  text-align: center;
+  font-family: 'Hogwarts Wizard', sans-serif;
+  background-color: #f7f7f7;
+}
+
+.HarryPotter-header {
+  background-color: #9b3e15;
+  padding: 2rem;
+  text-align: center;
+}
+
+.HarryPotter-title {
+  font-size: 3rem;
+  color: #f7f7f7;
+  margin: 0;
+}
+
+.HarryPotter-text {
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.HarryPotter-section {
+  padding: 2rem;
+  background-color: #f7f7f7;
+}
+
+.HarryPotter-section h2 {
+  font-size: 2rem;
+  color: #9b3e15;
+  margin-top: 0;
+}
+
+.HarryPotter-footer {
+  padding: 1rem;
+  background-color: #9b3e15;
+  text-align: center;
+}
+
+/* Import Hogwarts Wizard font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Hogwarts+Wizard&display=swap');
